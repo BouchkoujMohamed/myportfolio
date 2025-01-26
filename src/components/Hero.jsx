@@ -1,4 +1,4 @@
-import Portfilio from './../assets/protfolio12.png'
+import Portfilio from './../assets/protfolio12.jpeg'
 import { motion } from "framer-motion"
 
 const container = (delay)=>({
